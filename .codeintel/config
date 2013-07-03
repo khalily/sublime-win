@@ -1,0 +1,6 @@
+{
+	"Python": {
+    	"python": 'D:\Python27\python.exe',
+    	"pythonExtraPaths": ["D:\Python27\Lib\site-packages\django"]
+  	},
+}

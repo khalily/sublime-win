@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"CTags",
+		"GoSublime",
+		"GoToDoc",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeRope"
+	]
+}
